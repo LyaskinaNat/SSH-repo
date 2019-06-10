@@ -40,7 +40,7 @@ Tests can be run from IntelliJ IDE by
 1. Running each feature file
 2. Running Main runner with specified tag(s)
 
-test test test test tets 
+
 
 
 
